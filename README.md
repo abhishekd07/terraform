@@ -1,5 +1,5 @@
 # Terraform Guides
-This repository contains sample Terraform configurations, Sentinel policies, and automation scripts that can be used with Terraform Enterprise.
+This repository contains sample Terraform configurations, Sentinel policies, and automation scripts that can be used with Terraform Enterprise. test
 
 ## infrastructure-as-code
 This directory contains sample Terraform configurations to provision VMs into AWS, Azure, and Google Cloud Platform (GCP) as well as Kubernetes clusters into Azure Container Service (ACS) and Google Kubernetes Engine (GKE).
